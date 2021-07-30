@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Leili/Desktop/aze memari/az9/computer/tb_MIPS_isim_beh.exe" -prj "C:/Users/Leili/Desktop/aze memari/az9/computer/tb_MIPS_beh.prj" "work.tb_MIPS" 
