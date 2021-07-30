@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Leili/Desktop/aze memari/az9/computer/tb_MIPS_isim_beh.exe -prj C:/Users/Leili/Desktop/aze memari/az9/computer/tb_MIPS_beh.prj work.tb_MIPS 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Leili/Desktop/aze memari/az9/computer/MIPS.vhd" into library work
+Parsing VHDL file "C:/Users/Leili/Desktop/aze memari/az9/computer/TB_MIPS.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity MIPS [mips_default]
+Compiling architecture behavior of entity tb_mips
+Time Resolution for simulation is 1ps.
+Compiled 8 VHDL Units
+Built simulation executable C:/Users/Leili/Desktop/aze memari/az9/computer/tb_MIPS_isim_beh.exe
+Fuse Memory Usage: 37160 KB
+Fuse CPU Usage: 874 ms
